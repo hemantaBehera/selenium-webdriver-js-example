@@ -1,0 +1,23 @@
+{
+  "name": "selenium-webdriver-js-example",
+  "version": "1.0.0",
+  "description": "selenium-webdriver javascript example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemantaBehera/selenium-webdriver-js-example.git"
+  },
+  "author": "Hemanta K behera <bhemantakumar@gmail.com> (http://hkbehera.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemantaBehera/selenium-webdriver-js-example/issues"
+  },
+  "homepage": "https://github.com/hemantaBehera/selenium-webdriver-js-example",
+  "dependencies": {
+    "mocha": "^3.5.0",
+    "selenium-webdriver": "^3.5.0"
+  }
+}
